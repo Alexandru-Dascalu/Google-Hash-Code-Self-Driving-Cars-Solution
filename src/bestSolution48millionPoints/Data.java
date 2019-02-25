@@ -79,7 +79,7 @@ public class Data
 		fin.close();
 	}
 	
-	public static void write (File fout) throws IOException
+	public static void write (String fout) throws IOException
 	{
 		long takenRides=0;
 		PrintWriter out=new PrintWriter (fout);
