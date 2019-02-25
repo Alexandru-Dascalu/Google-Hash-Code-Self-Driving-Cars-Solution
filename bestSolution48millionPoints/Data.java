@@ -1,3 +1,4 @@
+package bestSolution48millionPoints;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;

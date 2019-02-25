@@ -1,3 +1,4 @@
+package bestSolution48millionPoints;
 import java.io.File;
 import java.io.IOException;
 
@@ -12,7 +13,7 @@ public class Main
 
 		for(int i=0; i<files.length;i++)
 		{
-			System.out.println(files[i]);
+			System.out.println("Input Files" + File.separator + files[i]);
 			Data.read(new File(files[i]));
 			
 			for(Car car: Data.CAR)

@@ -1,3 +1,4 @@
+package bestSolution48millionPoints;
 import java.util.ArrayList;
 
 public class Car

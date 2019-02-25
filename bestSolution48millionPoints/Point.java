@@ -1,3 +1,4 @@
+package bestSolution48millionPoints;
 
 public class Point
 {
