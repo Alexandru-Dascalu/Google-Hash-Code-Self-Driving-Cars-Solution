@@ -1,4 +1,2 @@
-# Google-Hash-2018-Online-Qualifications-47.8-million-points
-A solution that I developed for the Google Hash 2018 Qualifications Round problem after the competition was over. This solution got  47,871,274 points on the Google Hash Judge System. Had it been submitted during the competition, it would have placed my team in top 5% teams worldwide.
-
-When running this code, you should have the input files in the same folder as the source code, as the file names are hard coded in the program.
+# Google-Hash-2018-Self-Driving-Cars-Solution
+A couple of solutions I developed for the Google Hash Code 2018 Self Driving Cars problem. One is the original solution written during the competition together with a second year student, the rewritten one is the same solution but rewritten to be more clear with data structures iwas familiar with in the spring of 2018. The fixed original is the solution with the same core algorithm as the first one, but with fixed ride and car methods (the original ones were broken). The best solution is a solution I wrote after the competition that uses a new algorithm to solve the problem.
