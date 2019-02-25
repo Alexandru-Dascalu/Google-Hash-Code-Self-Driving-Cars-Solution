@@ -14,7 +14,7 @@ public class Main
 		for(int i=0; i<files.length;i++)
 		{
 			System.out.println(files[i]);
-			Data.read(new File(files[i]));
+			Data.read(new File("Input Files" + File.separator + files[i]));
 			int missedRides=0;
 			for (Ride ride: Data.RIDES)
 			{
